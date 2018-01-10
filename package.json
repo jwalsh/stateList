@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jwalsh/stateList/issues"
   },
-  "homepage": "https://github.com/jwalsh/stateList#readme"
+  "homepage": "https://github.com/jwalsh/stateList#readme",
+  "devDependencies": {
+    "datasets-us-states-abbr": "^1.0.0",
+    "lodash": "^4.17.4"
+  }
 }
