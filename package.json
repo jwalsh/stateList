@@ -1,0 +1,19 @@
+{
+  "name": "state-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh/stateList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwalsh/stateList/issues"
+  },
+  "homepage": "https://github.com/jwalsh/stateList#readme"
+}
