@@ -1,9 +1,3 @@
-let states = require('./index');
+import { stateList } from './index';
 
-var abbr = require( 'datasets-us-states-abbr' );
-var _ = require('lodash');
-
-console.log(states.name['MA']);
-console.log(states.abbrev['Washington']);
-
-console.log(states.name[_.sample(abbr)]);
+console.log(stateList);
