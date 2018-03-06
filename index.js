@@ -237,4 +237,4 @@ const stateList = [
     }
 ];
 
-module.exports { stateList };
+module.exports = { stateList };
